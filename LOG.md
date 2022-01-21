@@ -1,0 +1,2 @@
+- 2022/01/21: Forces yellow letters to be on word list
+- 2022/01/20: Initial Version
